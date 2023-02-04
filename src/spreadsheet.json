@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nfc-attendance-376501",
+  "private_key_id": "4e9873e1c5f313de4a1d5c3a73565baec80f642f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC5QwHD3DgJBtOd\nr8UbsCa6LkrK//IRFmcCdjKVmUWoZbrp9j7M1vAJKAjXETY/YD4w0RiUr4MAdnUd\n5fSlmKFdP+Vms2XaH3wzvVPvWhK8JopnHYnJqJ0kzi3Zm76wMbO0cmwo93FIYIy3\nWbhr7D1bx2Zj+jnKafdVBRV+/oCrmAZfidzvuK3acgxaq9I37yvzbypymNldh5/z\nD8PBR4Y1XWhbGiOKK7dE/1wtU+Ro39HR8Mxqxe6w0NGvKMWURB64+EKJZy4spqpS\nv0jbTHwCBGo1HuSm8C40tP+M3XOMqyuiWK/q/y3PxaL0mSL8CGaUyMaXGgM3iKD+\nHmme2tKLAgMBAAECggEAGSHjS2lvRfThywfdUDRFYgcwU6Rad8GiQniRGYUBfibO\n2ePIq+E8uavvXGhpWOT64C8oNoODh2c1MX57VzutfbOoBewFv+F65/Sh6QaUeWcr\nv3FdD+O1Qxj1VLVcLmrlBhsVBo8K6davQEWw+chtSoDH0yhO+WFcEZyZnfDIuSkG\nG20S14KRK7BsX9kkEx7c+xXf4+snrSy2uPgeNj9+HCpHppNtcSUjgFwpOjEoMvZ5\nguc6HBh1Sqs5H4Qy8yIdvuLXR63x5IuCBRLddCZ2J5j8v1Qc9FGR/fKEapRTOpEG\n3cNyg2g1maIKrTFZhci6LXHoWoL27uDQ5svTQO/sAQKBgQDdtxs4qwKV331GtgRx\nd5DtD73lHRV0MILFiRE1Sf3jPLCwU/hzBW7uIPkrwGO1B5XRaj7P08MkjsZ9khWa\n1CSMe0u061SwJYb1kSr2GI7n0UHfP57fx6frS+yTN59G3+Hx5jsCJi6Ku6RUxLJp\nmUDuC2m5ARKkt+3yMXjM8pHl6wKBgQDV6Nb3EFeNW4Fc5q7xhXdtmFx932hXHWHN\nz7DMGCQKS4ObIdc/DX5Ngz8xxz6+Y1LbR0VYe3Kzny86xcVj0hk/5h9mJ4UWJK8a\ntZ0oU8AzMMjeG497pUaLQRvllS7hdTmY1DyJyjA0dKihIvZZMxugv2MIUHFxpDzb\nusYIaxR94QKBgDa7Jrsca+z3WIOGFx6zd1Et26CdR1iBSSbeKSNQep4Hs04zzFcI\ndlPOS/Qi7/oWP0OMyKihC8EQhaslzrODvun23b9xgFxjRyeDiGlrsotDOtGTcPKo\n5KjO+z10M5tZVPtT7Ckhp8eTfoN2ctxieobIxnZm72U+Cj0JPVrKXn21AoGAfYxA\nhxfHW0cmwSD/8u+T7fYr6xDxy5eKLOLGcLOGi6hQoP+WtwIzbEkpEQ1RTSs8mUjW\ncZ1a8APxE3y6YuEQQsnNCgcN/LYhM/r+N4oYV7M9YecpKrgRlG/tcK1Dq75CxOlk\ncrcB3ffOdWzwy9/MSmeqN1oHi1yK/6g6zPwUNeECgYA7/2j+71xr9aqwrh339+vw\nXY1R7iF8oEdlYPu+gphrEt5xwcXZXWcizXhkWY4wK9ND0+8Pw5kuqMglPjWpkFIo\njrd7gTg4bsbuvo6ZUCNz9/D/i4R1rdeIyeHMVC/WB/rVy0C7DmHsad1CMsraXOpm\nZgoXOE2emHRwdtNndE/coQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "nfc-attendace@nfc-attendance-376501.iam.gserviceaccount.com",
+  "client_id": "111549702589889468095",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nfc-attendace%40nfc-attendance-376501.iam.gserviceaccount.com"
+}
