@@ -30,7 +30,12 @@
   align-items: center;
   justify-content: center;
 }
-
+#check_in{
+  background-color: green;
+}
+#check_out{
+  background-color: red;
+}
 .App-logo {
   height: 20vmin;
   pointer-events: none;
